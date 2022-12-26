@@ -1,6 +1,8 @@
 name: Update Database
 
-on: push
+on:
+  schedule:
+    - cron: "0 0 * * 5"
 jobs:
   update_hadiths:
     name: "Hadiths DB Updater"
