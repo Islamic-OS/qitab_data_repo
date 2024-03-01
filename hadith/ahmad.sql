@@ -89,60 +89,7 @@ INSERT INTO "ahmad" VALUES('1',0,NULL,NULL,'3',3,5300030,NULL,'حَدَّثَن�
 اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبُو بَكْرٍ مَعَهُ قَالَ الْبَرَاءُ وَلَمْ
 يَقْدَمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى حَفِظْتُ
 سُوَرًا مِنْ الْمُفَصَّلِ قَالَ إِسْرَائِيلُ وَكَانَ الْبَرَاءُ مِنْ
-الْأَنْصَارِ مِنْ بَنِي حَارِثَةَ‏.‏ ','',5000030,NULL,'It was narrated that al-Bara'' bin ''Azib said: Abu Bakr bought a saddle from
-‘Azib for thirteen dirhams, then Abu Bakr said to ''Azib. Tell al-Bara to carry
-it to my house. He said: No, not until you tell us what happened when the
-Messenger of Allah (صلى الله عليه وسلم) went out and you were with him. Abu
-Bakr said: We started our journey at the beginning of the night and we
-hastened for one day and one night, until it was midday. I looked into the
-distance to see whether there was anywhere to seek shade, and I saw a rock, so
-I went to it and it had a little shade. I smoothed the ground for the
-Messenger of Allah (صلى الله عليه وسلم) and spread a garment of camel hair for
-him, and said: Lie down and rest, O Messenger of Allah. So he lay down, and I
-went out to see if I could spot anyone looking for us. Then I saw a shepherd
-and I said: Who do you belong to, O boy? He said: To a man of Quraish. He
-mentioned his name and I recognised it. I said: Is there any milk in your
-sheep? He said: Yes | said: Will you milk some for me? He said: Yes. I told
-him to do that, so he caught a sheep, then I told him to brush the dust from
-its teat, then to brush the dust off his hands. I had a small vessel with me
-on the neck of which was a cloth. He milked a little bit of milk for me and I
-poured it into the vessel until it cooled down. Then I came to the Messenger
-of Allah (صلى الله عليه وسلم). When I reached him, he had already woken up. I
-said: Drink, O Messenger of Allah. He drank until I was pleased, then I said:
-Is it time to move on? So we moved on and the people were coming after us but
-none of them caught up with us except Suraqah bin Malik bin Ju''shum, who was
-riding a horse of his, I said: O Messenger of Allah, someone has caught up
-with us. He said: Do not be afraid, for Allah is with us. When he got close to
-us, and there was no more between us and him then the length of a spear or two
-or three spears, I said: O Messenger of Allah, this pursuer has caught up with
-us, and I wept. He said: Why are you weeping? I said: I am not weeping for
-myself; rather I am weeping for you. The Messenger of Allah (صلى الله عليه
-وسلم) prayed against him [the pursuer] and said: “O Allah, protect us from him
-by whatever means You will.” Then his horse''s legs sank into the solid ground
-up to its belly, and he fell off it. He said: O Muhammad, I know that this is
-because of you; pray to Allah to save me from my predicament, and by Allah I
-shall divert away from you any one who is behind me of those who are seeking
-you. Here is my quiver, take one arrow. You are going to pass by some camels
-and sheep of mine in such and such a place, take whatever you need from thern.
-The Messenger of Allah (صلى الله عليه وسلم) said: I have no need of it.“ The
-Messenger of Allah (صلى الله عليه وسلم) prayed for him and he was released,
-and he went back to his companions. The Messenger of Allah (صلى الله عليه
-وسلم) and I continued on our way until we came to Madinah, where the people
-met him. They came out on the road and on the roofs, and a lot of servants and
-children crowded the road saying: Allahu Akbar, the Messenger of Allah (صلى
-الله عليه وسلم) has come, Muhammad has come. The people disputed as to who he
-would stay with. The Messenger of Allah (صلى الله عليه وسلم) said: Tonight I
-will stay with Banun-Najjar, the maternal uncles of ''Abdul-Muttalib, to honour
-them thereby.” The next morning, he went where he was instructed. Al-Bara'' bin
-''Azib said: The first of the Muhajireen to come to us was Mus''ab bin ''Umair,
-the brother of Banu ''Abdud-Dar. Then Ibn Umm Maktoom, the blind man and
-brother of Banu Fihr, came to us. Then ''Umar bin al-Khattab, came to us with
-twenty riders and we said: What happened to the Messenger of Allah (صلى الله
-عليه وسلم)? He said: He is behind me. Then the Messenger of Allah (صلى الله
-عليه وسلم) came and Abu Bakr was with him. Al-Bara said: the Messenger of
-Allah (صلى الله عليه وسلم) did not come until I had read some soorahs from al-
-Mufassal [Al-Mufassal is that portion of the Qur''an which goes from Qaf to an-
-Nas]. Isra''eel said: al-Bara'' was one of the Ansar from Banu Harithah. ','Sahih (Darussalam) [Bukhari 3615 and Muslim 2009] ');
+الْأَنْصَارِ مِنْ بَنِي حَارِثَةَ‏.‏ ','',5000030,NULL,'It was narrated that al-Bara'' bin ''Azib said: Abu Bakr bought a saddle from ‘Azib for thirteen dirhams, then Abu Bakr said to ''Azib. Tell al-Bara to carry it to my house. He said: No, not until you tell us what happened when the Messenger of Allah (صلى الله عليه وسلم) went out and you were with him. Abu Bakr said: We started our journey at the beginning of the night and we hastened for one day and one night, until it was midday. I looked into the distance to see whether there was anywhere to seek shade, and I saw a rock, so I went to it and it had a little shade. I smoothed the ground for the Messenger of Allah (صلى الله عليه وسلم) and spread a garment of camel hair for him, and said: Lie down and rest, O Messenger of Allah. So he lay down, and I went out to see if I could spot anyone looking for us. Then I saw a shepherd and I said: Who do you belong to, O boy? He said: To a man of Quraish. He mentioned his name and I recognised it. I said: Is there any milk in your sheep? He said: Yes | said: Will you milk some for me? He said: Yes. I told him to do that, so he caught a sheep, then I told him to brush the dust from its teat, then to brush the dust off his hands. I had a small vessel with me on the neck of which was a cloth. He milked a little bit of milk for me and I poured it into the vessel until it cooled down. Then I came to the Messenger of Allah (صلى الله عليه وسلم). When I reached him, he had already woken up. I said: Drink, O Messenger of Allah. He drank until I was pleased, then I said: Is it time to move on? So we moved on and the people were coming after us but none of them caught up with us except Suraqah bin Malik bin Ju''shum, who was riding a horse of his, I said: O Messenger of Allah, someone has caught up with us. He said: Do not be afraid, for Allah is with us. When he got close to us, and there was no more between us and him then the length of a spear or two or three spears, I said: O Messenger of Allah, this pursuer has caught up with us, and I wept. He said: Why are you weeping? I said: I am not weeping for myself; rather I am weeping for you. The Messenger of Allah (صلى الله عليه وسلم) prayed against him [the pursuer] and said: “O Allah, protect us from him by whatever means You will.” Then his horse''s legs sank into the solid ground up to its belly, and he fell off it. He said: O Muhammad, I know that this is because of you; pray to Allah to save me from my predicament, and by Allah I shall divert away from you any one who is behind me of those who are seeking you. Here is my quiver, take one arrow. You are going to pass by some camels and sheep of mine in such and such a place, take whatever you need from thern. The Messenger of Allah (صلى الله عليه وسلم) said: I have no need of it.“ The Messenger of Allah (صلى الله عليه وسلم) prayed for him and he was released, and he went back to his companions. The Messenger of Allah (صلى الله عليه وسلم) and I continued on our way until we came to Madinah, where the people met him. They came out on the road and on the roofs, and a lot of servants and children crowded the road saying: Allahu Akbar, the Messenger of Allah (صلى الله عليه وسلم) has come, Muhammad has come. The people disputed as to who he would stay with. The Messenger of Allah (صلى الله عليه وسلم) said: Tonight I will stay with Banun-Najjar, the maternal uncles of ''Abdul-Muttalib, to honour them thereby.” The next morning, he went where he was instructed. Al-Bara'' bin ''Azib said: The first of the Muhajireen to come to us was Mus''ab bin ''Umair, the brother of Banu ''Abdud-Dar. Then Ibn Umm Maktoom, the blind man and brother of Banu Fihr, came to us. Then ''Umar bin al-Khattab, came to us with twenty riders and we said: What happened to the Messenger of Allah (صلى الله عليه وسلم)? He said: He is behind me. Then the Messenger of Allah (صلى الله عليه وسلم) came and Abu Bakr was with him. Al-Bara said: the Messenger of Allah (صلى الله عليه وسلم) did not come until I had read some soorahs from al-Mufassal [Al-Mufassal is that portion of the Qur''an which goes from Qaf to an-Nas]. Isra''eel said: al-Bara'' was one of the Ansar from Banu Harithah. ','Sahih (Darussalam) [Bukhari 3615 and Muslim 2009] ');
 INSERT INTO "ahmad" VALUES('1',0,NULL,NULL,'4',4,5300040,NULL,'حَدَّثَنَا وَكِيعٌ، قَالَ قَالَ إِسْرَائِيلُ قَالَ أَبُو إِسْحَاقَ عَنْ
 زَيْدِ بْنِ يُثَيْعٍ، عَنْ أَبِي بَكْرٍ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ
 عَلَيْهِ وَسَلَّمَ بَعَثَهُ بِبَرَاءَةٌ لِأَهْلِ مَكَّةَ لَا يَحُجُّ بَعْدَ
@@ -8263,19 +8210,7 @@ INSERT INTO "ahmad" VALUES('4',0,NULL,NULL,'489',82,5304580,NULL,'حَدَّثَ
 رَكَعَ قَالَ ثُمَّ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ
 وَسَلَّمَ حِينَ فَرَغَ مِنْ رَكْعَتَيْهِ مَنْ تَوَضَّأَ كَمَا تَوَضَّأْتُ
 ثُمَّ رَكَعَ رَكْعَتَيْنِ لَا يُحَدِّثُ فِيهِمَا نَفْسَهُ غُفِرَ لَهُ مَا
-كَانَ بَيْنَهُمَا وَبَيْنَ صَلَاتِهِ بِالْأَمْسِ‏.‏ ','',5004890,NULL,'It was narrated that | Humran bin Aban, the freed slave of Uthman bin Affan
-(رضي الله عنه), said: I saw Uthman bin Affan رضي الله عنه call for water at
-the door of the mosque. He washed his hands, then he rinsed his mouth, and
-took water into his nose and blew it out; then he washed his face three times,
-then he washed his hands up to the elbows three times, then he wiped his head.
-Then he passed his hands over the outside of his ears, then passed them over
-his beard, then he washed his feet up to the ankles three times. Then he stood
-and prayed two rak ahs, Then he said: I have done wudoo’ for you as I saw the
-Messenger of Allah (صلى الله عليه وسلم) do wudoo’, then I prayed two rak ahs
-as I saw him do. When the Messenger of Allah (صلى الله عليه وسلم) had finished
-praying his two rak ahs, he said: Whoever does wudoo’ as I have done, then
-prays two rak ahs in which he does not let his mind wander, will be forgiven
-whatever sins came between that and his previous prayer. ','Sahih hadeeth and its isnad is Hasan] ');
+كَانَ بَيْنَهُمَا وَبَيْنَ صَلَاتِهِ بِالْأَمْسِ‏.‏ ','',5004890,NULL,'It was narrated that | Humran bin Aban, the freed slave of Uthman bin Affan (رضي الله عنه), said: I saw Uthman bin Affan رضي الله عنه call for water at the door of the mosque. He washed his hands, then he rinsed his mouth, and took water into his nose and blew it out; then he washed his face three times, then he washed his hands up to the elbows three times, then he wiped his head. Then he passed his hands over the outside of his ears, then passed them over his beard, then he washed his feet up to the ankles three times. Then he stood and prayed two rak ahs, Then he said: I have done wudoo’ for you as I saw the Messenger of Allah (صلى الله عليه وسلم) do wudoo’, then I prayed two rak ahs as I saw him do. When the Messenger of Allah (صلى الله عليه وسلم) had finished praying his two rak ahs, he said: Whoever does wudoo’ as I have done, then prays two rak ahs in which he does not let his mind wander, will be forgiven whatever sins came between that and his previous prayer. ','Sahih hadeeth and its isnad is Hasan] ');
 INSERT INTO "ahmad" VALUES('4',0,NULL,NULL,'490',83,5304590,NULL,'حَدَّثَنَا مُعَاوِيَةُ بْنُ عَمْرٍو، حَدَّثَنَا زَائِدَةُ، عَنْ عَاصِمٍ، عَنْ
 شَقِيقٍ، قَالَ لَقِيَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ الْوَلِيدَ بْنَ عُقْبَةَ
 فَقَالَ لَهُ الْوَلِيدُ مَا لِي أَرَاكَ قَدْ جَفَوْتَ أَمِيرَ
