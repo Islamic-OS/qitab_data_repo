@@ -1485,7 +1485,7 @@ blessings upon you, and may Allah reward you well and bestow upon you its like
 and reward you abundantly Reference: An-Nawawi, Kitdbul-''Athkarp. 349, and
 Sahihul-''Athkar2/7l3 by Saleem Al-Hilali. ',' ');
 INSERT INTO "hisn" VALUES('1',48,'48','48','146',147,1521460,'ما يعوذ به الأولاد ','كان رسول الله صلى الله عليه وسلم يعوذ الحسن والحسين " أعيذكما بكلمات الله
-التامة ، من كل شيطان وهامة ، ومن كل عينِ لامة " ','',1421470,'Placing childen under Allahs protection ','The Prophet (SAW) used to seek Allah''s protection for Al-Hasan and Al-Husain
+التامة ، من كل شيطان وهامة ، ومن كل عينِ لامة " ','',1421470,'Placing childen under Allah''s protection ','The Prophet (SAW) used to seek Allah''s protection for Al-Hasan and Al-Husain
 by saying: U īthukumā bikalimāti ‘llāhit-tāmmati min kulli shayṭānin wa
 hāmmah, wa min kulli aynin lāmmah I seek protection for you in the Perfect
 Words of Allah from every devil and every beast, and from every envious
@@ -1741,7 +1741,7 @@ INSERT INTO "hisn" VALUES('1',72,'72','72','183',184,1521830,'الدعاء إ�
 who has fed me, and give drink to the one who has given me drink. Reference:
 Muslim 3/126. ',' ');
 INSERT INTO "hisn" VALUES('1',73,'73','73','184',185,1521840,'الدعاء إذا أفطر عند أهل بيت ','أَفْطَـرَ عِنْدَكُم الصّـائِمونَ وَأَكَلَ طَعامَـكُمُ الأبْـرار،
-وَصَلَّـتْ عَلَـيْكُمُ الملائِكَـة ','',1421850,'When breaking fast in someones home ','Afṭara indakumuṣ-ṣā''imūn, wa akala ṭa āmakumu ‘l-''abrār, wa ṣallat
+وَصَلَّـتْ عَلَـيْكُمُ الملائِكَـة ','',1421850,'When breaking fast in someone''s home ','Afṭara indakumuṣ-ṣā''imūn, wa akala ṭa āmakumu ‘l-''abrār, wa ṣallat
 alaykumu ‘l-malā''ikah. With you, those who are fasting have broken their
 fast, you have fed those who are righteous, and the angels recite their
 prayers upon you. Reference: Abu Dawud 3/367, Ibn Majah 1/556, An-Nasa''i,
@@ -1834,7 +1834,7 @@ the final Tashahhud before ending the prayer, seeking the protection of Allah
 from the trials of the False Messiah. Reference: 1 Muslim 1/555, another
 version mentions the last ten ''Ayat, Muslim 1/556. 2 See invocations no. 55
 and 56 of this book. ',' ');
-INSERT INTO "hisn" VALUES('1',89,'89','89','200',201,1522000,'الدعاء لمن قال إني أحبك في الله ','أَحَبَّـكَ الّذي أَحْبَبْـتَني لَه ','',1422010,'To one who pronounces his love for you, for Allahs sake ','Aḥabbaka ‘lladhī aḥbabtanī lah. May He for Whose sake you love me, love
+INSERT INTO "hisn" VALUES('1',89,'89','89','200',201,1522000,'الدعاء لمن قال إني أحبك في الله ','أَحَبَّـكَ الّذي أَحْبَبْـتَني لَه ','',1422010,'To one who pronounces his love for you, for Allah''s sake ','Aḥabbaka ‘lladhī aḥbabtanī lah. May He for Whose sake you love me, love
 you. Reference: Abu Dawud 4/333. Al-Albani graded it good in Sahih Abu Dawud
 3/965. ',' ');
 INSERT INTO "hisn" VALUES('1',90,'90','90','201',202,1522010,'الدعاء لمن عرض عليك ماله ','بارَكَ اللهُ لَكَ في أَهْلِكَ وَمالِك ','',1422020,'To one who has offered you some of his wealth ','Bārakallāhu laka fī ahlika wa mālik. May Allah bless you in your family
