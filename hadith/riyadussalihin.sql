@@ -4047,7 +4047,7 @@ Mas''ud added: As he came near me, I found that he was the Messenger of Allah
 upon you than you have upon your slave." Then I said: "I will never beat any
 slave in future." Another narration is: The whip dropped from my hand in awe of the Prophet
 (PBUH). Still another narration is: I said: "He is free for the sake of Allah." He
-(PBUH) said, "If you had not done this, you would have been singed by the
+(PBUH) said, "If you had not done this, you would have been scorched by the
 Fire." [Muslim]. ',' ');
 INSERT INTO "riyadussalihin" VALUES('17',282,'282','282','1605',95,1715950,'\- باب النهي عن تعذيب العبد والدابة والمرأة والولد بغير سبب شرعي أو زائد
 على قدر الأدب ','\- وعن ابن عمر رضي الله عنهما أن النبي صلى الله عليه وسلم قال‏:‏ ‏"‏من ضرب
@@ -9495,9 +9495,9 @@ Messenger of Allah (PBUH) saying, "Whosoever alights somewhere and says:
 the Perfect Words of Allah from the evil of what He has created),'' nothing
 will harm him until he leaves that place." [Muslim]. ',' ');
 INSERT INTO "riyadussalihin" VALUES('7',174,'174','174','983',28,1709740,'\- باب ما يقول إذا نزل منزلاً ','\- وعن ابن عمر رضي الله عنهما قال‏:‏ كان رسول الله صلى الله عليه وسلم إذا
-سافر فأقبل الليل قال‏:‏ ‏"‏ يا أرض ، ربي وربك الله، أعوذ بك من شرك وشر ما
-فيك ، وشر ما خلق فيك، وشر ما يدب عليك أعوذ بالله من شر أسد وأسود، ومن الحية
-والعقرب، ومن ساكن البلد، ومن والد وما ولد‏"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏
+سافر فأقبل الليل قال‏:‏ ‏"‏ يا أرض ، ربي وربك الله، أعوذ بالله من شرك وشر
+ما فيك ، وشر ما خلق فيك، وشر ما يدب عليك أعوذ بالله من شر أسد وأسود، ومن
+الحية والعقرب، ومن ساكن البلد، ومن والد وما ولد‏"‏ ‏(‏‏(‏رواه أبو داود‏)‏‏)‏‏
 والأسود‏ ‏‏:‏ الشخص، قال الخطابي‏:‏ و‏ ‏ساكن البلد‏ ‏‏:‏ هم الجن الذين هم
 سكان الأرض ‏.‏ قال‏:‏ والبلد من الأرض‏:‏ ما كان مأوى الحيوان، وإن لم يكن
 فيه بناء ومنازل ‏.‏ قال‏:‏ ويحتمل أن المراد ‏ ‏ بالوالد‏ ‏ ‏:‏ إبليس ‏

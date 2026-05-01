@@ -1418,7 +1418,7 @@ shay''in Alīm. (Recite the Ayat) He is the First and the Last, the Most High
 and the Most Near. And He is the Knower of all things (in Arabic). Reference:
 Al-Hadid 57:3, Abu Dawud 4/329. Al-Albani graded it good in SahihAbu Dawud,
 3/962. ',' ');
-INSERT INTO "hisn" VALUES('1',41,'41','41','136',137,1521360,'الدعاء قضاء الدين ','اللّهُـمَّ اكْفِـني بِحَلالِـكَ عَنْ حَـرامِـك، وَأَغْنِـني بِفَضْـلِكِ
+INSERT INTO "hisn" VALUES('1',41,'41','41','136',137,1521360,'الدعاء قضاء الدين ','اللّهُـمَّ اكْفِـني بِحَلالِـكَ عَنْ حَـرامِـك، وَأَغْنِـني بِفَضْـلِكَ
 عَمَّـنْ سِـواك ','',1421370,'Settling a debt ','Allāhummak-finī biḥalālika an ḥarāmik, wa ''aghninī bi faḍlika amman
 siwāk. O Allah, suffice me with what You have allowed instead of what You
 have forbidden, and make me independent of all others besides You. Reference:

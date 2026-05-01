@@ -4292,15 +4292,15 @@ INSERT INTO "shamail" VALUES('8b',9,NULL,NULL,'368',1,1900710,NULL,'حَدَّث
 فَقَالَ أَبُو هُرَيْرَةَ‏:‏ بَخْ بَخْ يَتَمَخَّطُ أَبُو هُرَيْرَةَ فِى
 الْكَتَّانِ‏.‏ لَقَدْ رَأَيْتُنِي وَإِنِّى لأَخِرُّ فِيمَا بَيْنَ مِنْبَرِ
 رَسُولِ اللهِ صلى الله عليه وسلم وحُجْرَةِ عَائِشَةَ رضي الله عنها مَغْشِيًّا
-عَلَيَّّ، فَيَجِىءُ الْجَانِى فَيَضَعُ رِجْلَهُ عَلَى عُنُقِى، يُرَى أَنّ بِي
-جْنُونٌا، وَمَا بِي جُنُونٍ، ومَا هو إِلاَّ الْجُوعُ‏.‏ ','',1800685,NULL,'Muhammad ibn Sirin said: "We were in the presence of Abu Huraira, and he was
+عَلَيَّّ، فَيَجِىءُ الْجَائِى فَيَضَعُ رِجْلَهُ عَلَى عُنُقِى، يُرَى أَنّ
+بِي جْنُونٌا، وَمَا بِي جُنُونٍ، ومَا هو إِلاَّ الْجُوعُ‏.‏ ','',1800685,NULL,'Muhammad ibn Sirin said: We were in the presence of Abu Huraira, and he was
 wearing two linen garments dyed with red clay. He blew his nose in one of
-them, so he said: “Bravo! Bravo! Abu Huraira is blowing his nose in the
-linen!” Before I knew it, I found myself lying prostrate and unconscious
-between the pulpit of Allah’s Messenger (Allah bless him and give him peace)
-and the room of ''A''sha (may Allah be well pleased with her), whereupon the
-wrongdoer came and planted his foot on my neck. He supposed that I was
-afflicted with a fit of insanity, though it wasn''t insanity, but mere hunger.” ','Sahih Isnād ');
+them, then said: “Bravo! Bravo! Abu Huraira is blowing his nose in the linen!
+I had found myself (in the past) as I would drop between the pulpit of Allah’s
+Messenger (Allah bless him and give him peace) and the room of ''A''isha (may
+Allah be well pleased with her) falling unconscious, so the one who would come
+(by) would come then plant his foot on my neck, supposing I was afflicted with
+insanity, though I was not afflicted with insanity, and it was merely hunger.” ','Sahih Isnād ');
 INSERT INTO "shamail" VALUES('8b',9,NULL,NULL,'369',2,1900720,NULL,'حَدَّثَنَا قُتَيْبَةُ ‏,‏ حَدَّثَنَا جعفر بن سليمان الضبعي ‏,‏ عن مالك بن
 دينار قال‏:‏ مَا شَبِعَ رَسُولِ اللهِ صلى الله عليه وسلم مِنْ خُبْزٍ قَط ‏,‏
 وَلَحم إِلاَّ عَلى ضفَفَ‏.‏ ','',1800688,NULL,'Malik ibn Dinar said: "Allah’s Messenger (Allah bless him and give him peace)
